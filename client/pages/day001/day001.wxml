@@ -1,0 +1,2 @@
+<!--pages/day001/day001.wxml-->
+<button bindtap='addData'>创建数据</button>

@@ -1,5 +1,7 @@
 {
     "pages": [
+        "pages/day001/day001",
+        "pages/my01/my01",
         "pages/index/index",
         "pages/addCgi/addCgi"
     ],
